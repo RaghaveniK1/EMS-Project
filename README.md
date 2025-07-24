@@ -7,7 +7,6 @@ A backend project built with **Java** and **Spring Boot** that manages employee 
 ## 🚀 Features
 
 - ✅ Register and Login with JWT Authentication
-- 🔐 Role-based access control (Admin/User)
 - 📋 Create, Read, Update, Delete (CRUD) employees
 - 🔎 Search employee by ID
 - 🛡 Secure endpoints using Spring Security and JWT
